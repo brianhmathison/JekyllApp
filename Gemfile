@@ -2,5 +2,5 @@
 
 source "https://rubygems.org"
 
-gem "Jekyll"
+gem "jekyll"
 # gem "rails"
